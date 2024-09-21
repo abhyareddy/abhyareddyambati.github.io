@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abhya Reddy Ambati"
+title                    : "ABHYA REDDY AMBATI"
 title_separator          : "-"
-name                     : &name "ABHYA REDDY AMBATI"
+name                     : &name "Abhya Reddy Ambati"
 description              : &description "personal description"
 url                      : https://abhyareddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "abhyareddy/abhyareddyambati.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Abhya Reddy Ambati"
+  pronouns         : "She/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Atlanta, Georgia"
-  employer         : "Red Brick University"
+  employer         : "Emory University"
   uri              : # URL
   email            : "abhyareddyambati@gmail.com" 
 
